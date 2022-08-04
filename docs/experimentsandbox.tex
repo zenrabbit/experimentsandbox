@@ -1,0 +1,270 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{book}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={Experimental design},
+  pdfauthor={cjlortie},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\usepackage{booktabs}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\usepackage[]{natbib}
+\bibliographystyle{apalike}
+
+\title{Experimental design}
+\author{cjlortie}
+\date{}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\hypertarget{introduction}{%
+\chapter{Introduction}\label{introduction}}
+
+\includegraphics[width=4in,height=\textheight]{./bolt.png}
+
+Experiments shape the human experience. Experiments are a critical component of all natural systems from evolution to community dynamics. Experiments in science are creative, iterative, \& source critical thinking. We naturally experiment in art, science, and life. Here, we hone these skills through principles and practice. The principles are here, and the practice is in the form a lab manual entitled \href{https://bookdown.org/cj4nature/designcraft4experiments/}{'Designcraft for experiments}.
+
+\hypertarget{course-outline}{%
+\subsection*{Course outline}\label{course-outline}}
+\addcontentsline{toc}{subsection}{Course outline}
+
+If you are electing to engage with this learning opportunity formally, please see the official course outline for specific details.
+
+There are three summative assessments.\\
+1. Test (apply the challenge-solution framework).\\
+2. Make a scientific comic or infographic for a new challenge of your choice.\\
+3. Write a super short ignite synthesis paper.
+
+\hypertarget{learning-outcomes}{%
+\subsection*{Learning outcomes}\label{learning-outcomes}}
+\addcontentsline{toc}{subsection}{Learning outcomes}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Critically read environmental science peer-reviewed journal publications.\\
+\item
+  Reverse-engineer the critical reproducible science tools using peer-reviewed publications.\\
+\item
+  Appreciate the extent and scope of environmental challenges we face globally.\\
+\item
+  Explain the balance between direct human needs and environmental health.\\
+\item
+  Do a formal synthesis such as meta-analysis or systematic review.\\
+\item
+  Effectively communicate scientific synthesis findings to the public.
+\end{enumerate}
+
+\hypertarget{steps}{%
+\subsection*{Steps}\label{steps}}
+\addcontentsline{toc}{subsection}{Steps}
+
+\hypertarget{module-1.}{%
+\subsubsection*{Module 1.}\label{module-1.}}
+\addcontentsline{toc}{subsubsection}{Module 1.}
+
+Read a total of 9 useful peer-reviewed science publications.\\
+Test your practical knowledge by applying to a new challenge.
+
+\hypertarget{module-2.}{%
+\subsubsection*{Module 2.}\label{module-2.}}
+\addcontentsline{toc}{subsubsection}{Module 2.}
+
+Choose your own adventure (i.e.~a dimension of an environmental challenge you care about).\\
+Draw a comic or infographic to communicate challenge to the public.\\
+Write a short synthesis paper on this topic for a scientific audience.
+
+\hypertarget{rationale}{%
+\subsubsection*{Rationale}\label{rationale}}
+\addcontentsline{toc}{subsubsection}{Rationale}
+
+For each environmental management challenge case examined, students will be responsible for reading the literature provided at their own pace. The professor will facilitate learning as needed.
+
+The goal is to become more literate environmental citizens and develop, consolidate, and evaluate critical environmental science thinking and problem solving.
+
+The first module highlights some of the most pressing challenges and more common replicable tools used by the scientific community. The summative test is provided immediately at the start of course to enable asynchronous work and provide a clear, transparent, and testable outcome for this module.
+
+The second module provides an opportunity for students in this upper-year offering to do a deep dive into a topic that care about deeply. The dimension of the challenge and the solution they pick is open provided it is well articulated. The graphical assignment is a stepping stone or scaffolding to the final paper. It is also a chance to be as creative as students elect to be with communicating science to the public. The final paper is an Ignite, Forum, or Mini-review format contribution on their topic appropriate for a general science journal. These types of papers are increasingly common and important in science and used extensively for evidence-informed decision making by leaders.
+
+\hypertarget{citation}{%
+\subsection*{Citation}\label{citation}}
+\addcontentsline{toc}{subsection}{Citation}
+
+Lortie, CJ (2021): Biology for environmental management pocketguide. figshare. Book. \url{https://doi.org/10.6084/m9.figshare.15031752.v3}
+
+\hypertarget{license}{%
+\subsection*{License}\label{license}}
+\addcontentsline{toc}{subsection}{License}
+
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+\hypertarget{topics}{%
+\subsection*{Topics}\label{topics}}
+\addcontentsline{toc}{subsection}{Topics}
+
+\includegraphics[width=3in,height=\textheight]{./outline.png}
+
+Here is an overview of the content and topics covered in this course of study. Complete are your own pace, asynchronously. However, please check the official course outline if you are doing the work for credit to ensure you submit summative work at the appropriate times.
+
+\hypertarget{instructions}{%
+\subsection*{Instructions}\label{instructions}}
+\addcontentsline{toc}{subsection}{Instructions}
+
+Read and and use the papers to link environmental challenges that we collectively face with potential solutions. Only one solution per challenge is suggested here, but there are many dimensions to each challenge and numerous solutions too.
+
+The link to decks are optional. They are my interpretation of the papers from a science-to-magic philosophy and identify the salient elements and concepts from each reading that resonated with my perspective as an ecologist.
+
+\hypertarget{schedule}{%
+\subsection*{Schedule}\label{schedule}}
+\addcontentsline{toc}{subsection}{Schedule}
+
+\begin{tabular}{rlll}
+\toprule
+week & lecture & resource & labs\\
+\midrule
+1 & intro to course & {}[welcome deck](https://figshare.com/articles/presentation/BIOL3250\_welcome\_deck\_pdf/14944494) & none\\
+2 & textbook ch 1 \& 2 & {}[deck\_1](https://figshare.com/articles/presentation/BIOL3250\_ch1/14944506) \& [deck\_2](https://figshare.com/articles/presentation/BIOL3250\_ch2/14944509) & pilot field labs\\
+3 & textbook ch 3 \& 4 & {}[deck\_3](https://figshare.com/articles/presentation/BIOL3250\_ch3/14944512) \& [deck\_4](https://figshare.com/articles/presentation/BIOL3250\_ch4/14944515) & pilot field labs\\
+4 & textbook ch 5 \& 6 & {}[deck\_5](https://figshare.com/articles/presentation/BIOL3250\_ch5/14944518) \& [deck\_6](https://figshare.com/articles/presentation/BIOL3250\_ch6/14944521) & pilot field labs\\
+5 & textbook ch 7 \& 8 & {}[deck\_7](https://figshare.com/articles/presentation/BIOL3250\_ch7/14944524) \& [deck\_8](https://figshare.com/articles/presentation/BIOL3250\_ch8/14944530) & collect data for field experiment you chose\\
+\addlinespace
+6 & textbook ch 9 \& 10 & {}[deck\_9](https://figshare.com/articles/presentation/BIOL3250\_ch9/14944533) \& [deck\_10](https://figshare.com/articles/presentation/BIOL3250\_ch10/14944536) & **submit data and meta-data for field experiment**\\
+7 & **test** & review rubric provided in course materials & work on lab report\\
+8 & {}[ten simple rules for awards](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005863) & {}[deck](https://figshare.com/articles/presentation/BIOL3250\_career\_awards\_/14944563) & work on lab report\\
+9 & {}[ten simple rules for grants](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0020012) & {}[deck](https://figshare.com/articles/presentation/BIOL3250\_getting\_grants/14944560) & **lab report due at midnight of due date in official course outline - no lab**\\
+10 & shark-tank thinking for grants & {}[engineering shark tank](https://peer.asee.org/the-shark-tank-experience-how-engineering-students-learn-to-become-entrepreneurs) \& [medicine shark tank](https://meridian.allenpress.com/jgme/article/12/3/320/441922/Swimming-With-Sharks-Teaching-Residents-Value) \& [education shark tank](https://journals.lww.com/academicmedicine/fulltext/2017/11000/creating\_an\_\_education\_shark\_tank\_\_to\_encourage.24.aspx) & select and complete a data-design lab [life data deck](https://figshare.com/articles/presentation/BIOL3250\_quantified\_life\_data\_/14944575) \& [MTG deck](https://speakerdeck.com/zulainm/magic-the-gathering)\\
+\addlinespace
+11 & finalize grant proposal, ensure effective experimental design \& **submit at midnight of due date in official course outline** & {}[NSERC criteria](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsm-bescm\_eng.asp) \& review rubric provided in course materials \& [Crafting a Sales Pitch](https://eric.ed.gov/?id=EJ980463) \& [deck](https://figshare.com/articles/presentation/BIOL3250\_sales\_pitch\_for\_getting\_grants/17035907) \& [Developing research Qs through grants](https://www.tandfonline.com/doi/abs/10.1080/036012701753122901) & select \& complete a data-design lab\\
+12 & grant thinking \& discussion on best principles for experimental design applications in daily life & {}[grant thinking deck](https://figshare.com/articles/presentation/BIOL3250\_grant\_thinking/17078099) \& [daily life deck](https://figshare.com/articles/presentation/BIOL3250\_experimental\_debrief\_/14944566) & **lab report due at midnight of due date in official course outline - no lab**\\
+\bottomrule
+\end{tabular}
+
+\hypertarget{climate}{%
+\chapter{Climate change}\label{climate}}
+
+\includegraphics[width=3in,height=\textheight]{./climate.png}
+
+\hypertarget{learning-outcomes-1}{%
+\subsubsection*{Learning outcomes}\label{learning-outcomes-1}}
+\addcontentsline{toc}{subsubsection}{Learning outcomes}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Explore one set of dimensions associated with a changing climate.
+\item
+  Link science for cities to your life.\\
+\item
+  Explore one tool that can enable replicable solutions.
+\end{enumerate}
+
+\hypertarget{context}{%
+\subsubsection*{Context}\label{context}}
+\addcontentsline{toc}{subsubsection}{Context}
+
+We experience weather but live with climate. Climate is complex. Climate change has both effects on us and is a response to many drivers including anthropenic processes. The reading provided examines urban effects specifically \citep{RN5995}. Use the ten simple rules suggested to structure your analysis of this paper \citep{RN6861}. There is at least one solution that can enable better science. Replication and being able to test the same ideas again can be done using an open-source, and free, programming language to work with data, draw plots, and do statistics. \href{https://www.r-project.org}{R} is one such tool, and it can be used to promote solutions for others to try with their challenges because the code can be shared (i.e.~fondly recall math classes, show your work), and this documentation of science using data improves our solutions \citep{RN4523}.
+
+\hypertarget{reflection-questions}{%
+\subsubsection*{Reflection questions}\label{reflection-questions}}
+\addcontentsline{toc}{subsubsection}{Reflection questions}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  What are some of the other dimensions of climate change?
+\item
+  What tools or other solutions do scientists in many fields use to address a changing climate?
+\item
+  What is the biggest challenge of this issue that must be addressed and would R help?
+\end{enumerate}
+
+\hypertarget{formative-checklist-or-steps}{%
+\subsubsection*{Formative checklist or steps}\label{formative-checklist-or-steps}}
+\addcontentsline{toc}{subsubsection}{Formative checklist or steps}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Read the paper.\\
+\item
+  Consider the questions provided, to guide your thinking and practice implementing evidence to do magic (i.e.~potentially use science to address challenges). These are not graded, and the purpose is to reflect and actively engage with readings.\\
+\item
+  Review the slide decks (optional) after you read and consider the two papers to see if similar concepts resonated with you.
+\end{enumerate}
+
+  \bibliography{book.bib,packages.bib}
+
+\end{document}
