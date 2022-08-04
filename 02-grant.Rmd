@@ -1,0 +1,17 @@
+# Grant {#grant}
+
+![](./grant.png){width=3in}  
+
+### Learning outcomes {-}  
+1. Explore one set of dimensions associated with a changing climate.
+2. Link science for cities to your life.  
+3. Explore one tool that can enable replicable solutions.
+
+### Context {-}  
+We experience weather but live with climate. Climate is complex. Climate change has both effects on us and is a response to many drivers including anthropenic processes. The reading provided examines urban effects specifically [@RN5995]. Use the ten simple rules suggested to structure your analysis of this paper [@RN6861]. There is at least one solution that can enable better science. Replication and being able to test the same ideas again can be done using an open-source, and free, programming language to work with data, draw plots, and do statistics. [R](https://www.r-project.org) is one such tool, and it can be used to promote solutions for others to try with their challenges because the code can be shared (i.e. fondly recall math classes, show your work), and this documentation of science using data improves our solutions [@RN4523]. 
+
+### Grant guidelines {-}
+1.   
+
+### Rubric {-}  
+1. 

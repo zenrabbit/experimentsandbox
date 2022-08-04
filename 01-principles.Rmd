@@ -1,21 +1,17 @@
-# Climate change {#climate}
+# Principles {#principles}
 
-![](./climate.png){width=3in}  
+![](./design.png){width=3in}  
 
-#### Learning outcomes {-}  
+### Learning outcomes {-}  
 1. Explore one set of dimensions associated with a changing climate.
 2. Link science for cities to your life.  
 3. Explore one tool that can enable replicable solutions.
 
-#### Context {-}  
+### Context {-}  
 We experience weather but live with climate. Climate is complex. Climate change has both effects on us and is a response to many drivers including anthropenic processes. The reading provided examines urban effects specifically [@RN5995]. Use the ten simple rules suggested to structure your analysis of this paper [@RN6861]. There is at least one solution that can enable better science. Replication and being able to test the same ideas again can be done using an open-source, and free, programming language to work with data, draw plots, and do statistics. [R](https://www.r-project.org) is one such tool, and it can be used to promote solutions for others to try with their challenges because the code can be shared (i.e. fondly recall math classes, show your work), and this documentation of science using data improves our solutions [@RN4523]. 
 
-#### Reflection questions {-}
-1. What are some of the other dimensions of climate change?
-2. What tools or other solutions do scientists in many fields use to address a changing climate? 
-3. What is the biggest challenge of this issue that must be addressed and would R help?  
+### Test questions {-}
+1. 
 
-#### Formative checklist or steps {-}  
-1. Read the paper.  
-2. Consider the questions provided, to guide your thinking and practice implementing evidence to do magic (i.e. potentially use science to address challenges). These are not graded, and the purpose is to reflect and actively engage with readings.  
-3. Review the slide decks (optional) after you read and consider the two papers to see if similar concepts resonated with you.  
+### Rubric {-}  
+1. 

@@ -1,80 +1,64 @@
 --- 
 title: "Experimental design"
 author: "cjlortie"
-date: ""
+date: ''
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [book.bib, packages.bib]
+bibliography:
+- book.bib
+- packages.bib
 biblio-style: apalike
 link-citations: yes
-description: "The sandbox is a perfect metaphor because there is no perfect experiment -  we can do better experiments!"
-
+description: The sandbox is a perfect metaphor because there is no perfect experiment
+  -  we can do better experiments!
 ---
 
-# Introduction  
+# Introduction {-}   
 
-![](./bolt.png){width=4in}  
+![](./leaf.png){width=4in}  
 
-Experiments shape the human experience. Experiments are a critical component of all natural systems from evolution to community dynamics. Experiments in science are creative, iterative, & source critical thinking. We naturally experiment in art, science, and life. Here, we hone these skills through principles and practice. The principles are here, and the practice is in the form a lab manual entitled ['Designcraft for experiments](https://bookdown.org/cj4nature/designcraft4experiments/).   
+Experiments shape the human experience. Experiments are a critical component of all living natural systems encompassing evolution to community dynamics. Experiments in science are creative, iterative, & source critical thinking. We naturally experiment in art, science, and life. Here, we hone these skills through principles and practice. The principles are here, and the practice is in the form a lab manual entitled [Designcraft for experiments](https://bookdown.org/cj4nature/designcraft4experiments/).   
 
 
 ### Course outline {-}  
 
-If you are electing to engage with this learning opportunity formally, please see the official course outline for specific details.  
+If you are electing to engage with this learning opportunity formally, please see the official course outline for specific details. There are two summative assessments to the lecture principles (again pls see lab manual for work associated with the component of formal course offering).  
 
-There are three summative assessments.  
-1. Test (apply the challenge-solution framework).  
-2. Make a scientific comic or infographic for a new challenge of your choice.  
-3. Write a super short ignite synthesis paper.  
+1. Test (on content of the book and critical design thinking for science).  
+2. Grant proposal (for experiment and idea you care about).   
 
 ### Learning outcomes {-} 
-1. Critically read environmental science peer-reviewed journal publications.  
-2. Reverse-engineer the critical reproducible science tools using peer-reviewed publications.  
-3. Appreciate the extent and scope of environmental challenges we face globally.  
-4. Explain the balance between direct human needs and environmental health.  
-5. Do a formal synthesis such as meta-analysis or systematic review.  
-6. Effectively communicate scientific synthesis findings to the public.   
+1. Understand the core concepts of experimental design for any natural science experiment.  
+2. Understand key terminology, semantics, and experimental design philosophies.  
+3. Critically assess experiments.  
+4. Provide visual heuristics and workflows for experiments.  
+5. Be able to design & execute an effective experiment.  
+6. Be able to clearly write a well-structured manuscript suitable for publication in a journal.  
+7. Be able to write a competitive grant proposal appropriate for a Master's application.   
 
-### Steps {-}  
+### Steps to design success {-}  
 #### Module 1. {-}  
-Read a total of 9 useful peer-reviewed science publications.  
-Test your practical knowledge by applying to a new challenge.  
+- Read a super book on experimental design.  
+- Take a test to demonstrate mastery of content and creative design for science experiments.  
 
 #### Module 2. {-} 
-Choose your own adventure (i.e. a dimension of an environmental challenge you care about).  
-Draw a comic or infographic to communicate challenge to the public.  
-Write a short synthesis paper on this topic for a scientific audience.  
+- Select a science topic that you care deeply about it and do research on this opportunity.  
+- Write a one-page grant proposal appropriate for a graduate-school funding application.   
 
 #### Rationale {-} 
-For each environmental management challenge case examined, students will be responsible for reading the literature provided at their own pace. The professor will facilitate learning as needed.  
+Experiments are a powerful tool to understand, manage, and explore the world around us.  This course will provide you with the terminology and concepts you need to be competitive and effective in research and employment.  The lectures include exploration of the key terminology and ideas you need to process experiments.  You will also practice design experiments in the labs.
 
-The goal is to become more literate environmental citizens and develop, consolidate, and evaluate critical environmental science thinking and problem solving.   
+Lectures/independent but facilitated student learning  
+Read. Think. Create.  
 
-The first module highlights some of the most pressing challenges and more common replicable tools used by the scientific community. The summative test is provided immediately at the start of course to enable asynchronous work and provide a clear, transparent, and testable outcome for this module.   
+In the first module (i.e., a total of 6 weeks allocated but please work at your own pace), we read a book together. This component of the lectures provides you with the critical elements, ideas, tools, and terminology you need to design better experiments. The extent that you develop your knowledge and design skills are evaluated using a test, provided in advance, that you complete on your own time. Lectures with decks are provided and they are the principles that emerged, for me, from reading the book.    
 
-The second module provides an opportunity for students in this upper-year offering to do a deep dive into a topic that care about deeply. The dimension of the challenge and the solution they pick is open provided it is well articulated. The graphical assignment is a stepping stone or scaffolding to the final paper. It is also a chance to be as creative as students elect to be with communicating science to the public. The final paper is an Ignite, Forum, or Mini-review format contribution on their topic appropriate for a general science journal. These types of papers are increasingly common and important in science and used extensively for evidence-informed decision making by leaders.  
-
-### Citation {-}  
-Lortie, CJ (2021): Biology for environmental management pocketguide. figshare. Book. https://doi.org/10.6084/m9.figshare.15031752.v3   
+In the second module (i.e., a total of 4 weeks blocked), you design an experiment for graduate-level research and prepare an NSERC grant proposal (very short, see guidelines). The primary purpose of this component of the lectures is to provide you with the opportunity to generate a novel, useful research proposal on a topic of your choice. Key readings and discussion are provided to support your development and exploration of a topic that further hone your skills.  
 
 
-### License {-}  
+### Schedule {-}  
+This is the recommended timing for completing work. Deadlines are firm for submission of summative assessments, but the pacing to get each of those points in time is up to you. In lectures (and labs), we will however work through and discussion the material in this order.  
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.  
-
-### Topics {-}
-
-![](./outline.png){width=3in}    
-
-Here is an overview of the content and topics covered in this course of study. Complete are your own pace, asynchronously. However, please check the official course outline if you are doing the work for credit to ensure you submit summative work at the appropriate times.  
-
-### Instructions {-} 
-
-Read and and use the papers to link environmental challenges that we collectively face with potential solutions. Only one solution per challenge is suggested here, but there are many dimensions to each challenge and numerous solutions too.  
-
-The link to decks are optional. They are my interpretation of the papers from a science-to-magic philosophy and identify the salient elements and concepts from each reading that resonated with my perspective as an ecologist.  
-
-### Schedule {-} 
 
 ```{r, warning=FALSE, message=FALSE, echo=FALSE}
 library(tidyverse)
@@ -82,6 +66,14 @@ schedule <- read_csv("./schedule.csv")
 knitr::kable(schedule, booktabs = TRUE)
 
 ```
+
+### Citation {-}  
+Lortie, CJ (2022): Biology for environmental management pocketguide. figshare. Book. https://doi.org/10.6084/m9.figshare.15031752.v3   
+
+
+### License {-}  
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.  
 
 
 ```{r include=FALSE}
