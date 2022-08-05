@@ -1,0 +1,8 @@
+section,question,comments,value
+concepts,1,"describe 4 design principles or concepts for question, 1 mark for clarity",5
+concepts,2,"describe 4 design principles or concepts for question, 1 mark for clarity",5
+synthesis,design,"replicates, factors, levels balanced, design embodies effective and best principles",5
+synthesis,viability,"likelihood experiment will be successful, hypothesis and predictions align with design, does experiment test what is proposed",5
+synthesis,visual,"does the experimental visual serve as clear, effective, educational heuristic that illuminates the design, text to a limited extent to list levels, reps, or explain implementation and salient design elements, can a reader inspect figure and understand experimental design and purpose of work",5
+synthesis,outcome,"anticipated outcome specifically stated, implication of work proposed, relationship between data or evidence and outcome or hypothesis linked, did you close the loop for the reader so as to promote a meaningful understanding of why you proposed a specific experiment and how the findings will support or reject the hypothesis through the predictions ",5
+test_total,total of above,one point per percent to value and recognize effort and critical thinking,**30**

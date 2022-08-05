@@ -22,7 +22,7 @@ Experiments shape the human experience. Experiments are a critical component of 
 
 ### Course outline {-}  
 
-If you are electing to engage with this learning opportunity formally, please see the official course outline for specific details. There are two summative assessments to the lecture principles (again pls see lab manual for work associated with the component of formal course offering).  
+If you are electing to engage with this learning opportunity formally, please see the official course outline for specific details. There are two summative assessments to the lecture principles (again also see lab manual for the work associated with that component of the formal course offering if you are doing for credit).  
 
 1. Test (on content of the book and critical design thinking for science).  
 2. Grant proposal (for experiment and idea you care about).   
@@ -38,7 +38,7 @@ If you are electing to engage with this learning opportunity formally, please se
 
 ### Steps to design success {-}  
 #### Module 1. {-}  
-- Read a super book on experimental design.  
+- Read a very accessible book on experimental design.  
 - Take a test to demonstrate mastery of content and creative design for science experiments.  
 
 #### Module 2. {-} 
@@ -48,12 +48,13 @@ If you are electing to engage with this learning opportunity formally, please se
 #### Rationale {-} 
 Experiments are a powerful tool to understand, manage, and explore the world around us.  This course will provide you with the terminology and concepts you need to be competitive and effective in research and employment.  The lectures include exploration of the key terminology and ideas you need to process experiments.  You will also practice design experiments in the labs.
 
-Lectures/independent but facilitated student learning  
+Lectures (or independent but facilitated student learning) include three mental processes.  
+
 Read. Think. Create.  
 
-In the first module (i.e., a total of 6 weeks allocated but please work at your own pace), we read a book together. This component of the lectures provides you with the critical elements, ideas, tools, and terminology you need to design better experiments. The extent that you develop your knowledge and design skills are evaluated using a test, provided in advance, that you complete on your own time. Lectures with decks are provided and they are the principles that emerged, for me, from reading the book.    
+In the **first module** (i.e., a total of 6 weeks allocated but please work at your own pace), we read a book together. This component of the lectures provides you with the critical elements, ideas, tools, and terminology you need to design better experiments. The extent that you develop your knowledge and design skills are evaluated using a test, provided in advance, that you complete on your own time. Lectures with decks are provided and they are the principles that emerged, for me, from reading the book.    
 
-In the second module (i.e., a total of 4 weeks blocked), you design an experiment for graduate-level research and prepare an NSERC grant proposal (very short, see guidelines). The primary purpose of this component of the lectures is to provide you with the opportunity to generate a novel, useful research proposal on a topic of your choice. Key readings and discussion are provided to support your development and exploration of a topic that further hone your skills.  
+In the **second module** (i.e., a total of 4 weeks blocked), you design an experiment for graduate-level research and prepare an NSERC grant proposal (very short, see guidelines). The primary purpose of this component of the lectures is to provide you with the opportunity to generate a novel, useful research proposal on a topic of your choice. Key readings and discussion are provided to support your development and exploration of a topic that further hone your skills.  
 
 
 ### Schedule {-}  
@@ -68,7 +69,7 @@ knitr::kable(schedule, booktabs = TRUE)
 ```
 
 ### Citation {-}  
-Lortie, CJ (2022): Biology for environmental management pocketguide. figshare. Book. https://doi.org/10.6084/m9.figshare.15031752.v3   
+Lortie, CJ (2022): Experiment sandbox. figshare. Book. https://doi.org/10.6084/m9.figshare.20442801.v2    
 
 
 ### License {-}  

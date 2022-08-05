@@ -3,15 +3,49 @@
 ![](./grant.png){width=3in}  
 
 ### Learning outcomes {-}  
-1. Explore one set of dimensions associated with a changing climate.
-2. Link science for cities to your life.  
-3. Explore one tool that can enable replicable solutions.
+1. Practice the experimental principles.
+2. Develop a graduate-level experiment for a grant application.  
+3. Appreciate the nuances and challenges of designing an experiment.  
+4. Innovate on a topic and advance your knowledge for a subject of interest.  
 
 ### Context {-}  
-We experience weather but live with climate. Climate is complex. Climate change has both effects on us and is a response to many drivers including anthropenic processes. The reading provided examines urban effects specifically [@RN5995]. Use the ten simple rules suggested to structure your analysis of this paper [@RN6861]. There is at least one solution that can enable better science. Replication and being able to test the same ideas again can be done using an open-source, and free, programming language to work with data, draw plots, and do statistics. [R](https://www.r-project.org) is one such tool, and it can be used to promote solutions for others to try with their challenges because the code can be shared (i.e. fondly recall math classes, show your work), and this documentation of science using data improves our solutions [@RN4523]. 
+This is your chance to practice. Practice makes practice. It is also an opportunity to develop and explore a topic you care deeply about. It provides you with a short grant application appropriate for an funding in Canada for graduate school.  
 
-### Grant guidelines {-}
-1.   
+### Steps {-}  
+- For this module, you write a grant. Pick a topic or challenge.    
+- Review optional decks and lecture materials provided in schedule.  
+- Discuss ideas with colleagues and peers, discuss with instructor as needed, sketch, think, and be scientifically creative.  
+- Review grant instructions provided here and work towards a successful and timely submission.  
+
+### Bonus resources {-}  
+Consider using these in addition to the slide decks and links provided in the schedule.  
+
+- [**sample grant**](https://figshare.com/articles/online_resource/BIOL3250_grant_template/13224755) outlined with the formatting set up correctly for submission and for evaluation.  
+
+- [Ten simple rules for writing a career development award proposal](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005863)  
+
+- [Ten Simple Rules for Getting Grants](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0020012)    
+
+- [Ten simple rules for short and swift presentations](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005373)     
+
+### Grant {-}  
+
+#### Instructions {-}  
+
+1. Review the guidelines for graduate funding in Canada. [Canada Graduate Scholarships-Master’s Program](http://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsm-bescm_eng.asp) and the [instructions here if you choose to apply by Dec](http://www.nserc-crsng.gc.ca/ResearchPortal-PortailDeRecherche/Instructions-Instructions/CGS_M-BESC_M_eng.asp).  
+
+2. Review the rubric provided below.  
+
+3. Then, select a topic you are interested in, read up on it, do the research on what experiments have been done, innovate, and flex your jedi-design skills.  
+
+4. Write the proposal and submit as a **PDF** to [turnitin.com](http://www.turnitin.com).
+
 
 ### Rubric {-}  
-1. 
+
+```{r, warning=FALSE, message=FALSE, echo=FALSE}
+library(tidyverse)
+library(knitr)
+grant <- read_csv("grant_rubric.csv")
+knitr::kable(grant)
+``` 
