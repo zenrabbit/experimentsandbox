@@ -33,14 +33,6 @@
   \KOMAoptions{parskip=half}}
 \makeatother
 \usepackage{xcolor}
-\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
-\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
-\hypersetup{
-  pdftitle={Experimental design},
-  pdfauthor={cjlortie},
-  hidelinks,
-  pdfcreator={LaTeX via pandoc}}
-\urlstyle{same} % disable monospaced font for URLs
 \usepackage{longtable,booktabs,array}
 \usepackage{calc} % for calculating minipage widths
 % Correct order of tables after \paragraph or \subparagraph
@@ -74,6 +66,14 @@
 \fi
 \usepackage[]{natbib}
 \bibliographystyle{apalike}
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={Experimental design},
+  pdfauthor={cjlortie},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
 
 \title{Experimental design}
 \author{cjlortie}
@@ -205,7 +205,7 @@ week & lecture & resource & labs\\
 \subsection*{Citation}\label{citation}}
 \addcontentsline{toc}{subsection}{Citation}
 
-Lortie, CJ (2022): Experiment sandbox. figshare. Book. \url{https://doi.org/10.6084/m9.figshare.20442801.v2}
+Lortie, CJ (2022): Experiment sandbox. figshare. Book. \url{https://doi.org/10.6084/m9.figshare.20442801.v3}
 
 \hypertarget{license}{%
 \subsection*{License}\label{license}}
@@ -438,6 +438,50 @@ page & concept & description & value\\
 \hline
 3 & Lit cited & At least 5 studies published within last 5 years & 5\\
 \hline
+\end{tabular}
+
+\hypertarget{create}{%
+\chapter{CREATE}\label{create}}
+
+\includegraphics[width=3in,height=\textheight]{./castle.png}
+
+\hypertarget{learning-outcomes-3}{%
+\subsection*{Learning outcomes}\label{learning-outcomes-3}}
+\addcontentsline{toc}{subsection}{Learning outcomes}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Creatively read scientific literature.\\
+\item
+  Hone your critical thinking.\\
+\item
+  Develop a new set of tools for processing readings.
+\end{enumerate}
+
+\hypertarget{create-philosophy}{%
+\subsection*{CREATE philosophy}\label{create-philosophy}}
+\addcontentsline{toc}{subsection}{CREATE philosophy}
+
+Science is creative. Reading scientific literature can also be a creative process. \href{https://help.open.ac.uk/active-reading}{Active reading} includes highlights, annotation, and note taking. These approaches to reading and study can increase retention, comprehension, and engagement with scientific ideas. However, the teaching philosophy and pedagogy of CREATE is novel and relevant and takes this one step further. \href{https://academic.oup.com/genetics/article/176/3/1381/6062159}{\textbf{CREATE pedagogy}} stands for \textbf{C}onsider, \textbf{R}ead, \textbf{E}lucidate the hypothesis or purpose, \textbf{A}nalyze and interpret data or evidence, and \textbf{T}hink of the next \textbf{E}xperiment. This reading process is creative, active, and phenomenal practice for all professional work. If this process seems useful to you, please give it a try for this course. This work is \textbf{optional}, but it is literally only 5-10 minutes extra per week. Here are some proposed exercises for you to consider to test out the CREATE approach. If there is time in lectures, we will do them together. Use paper, powerpoint, or any sketching digital tool you prefer to write or draw. If you elect to try them out and want to submit them as well, \textbf{optional}, there are spots provided in \href{https://turnitin.com}{turnitin.com}.
+
+\hypertarget{create-applications}{%
+\subsection*{CREATE applications}\label{create-applications}}
+\addcontentsline{toc}{subsection}{CREATE applications}
+
+\begin{tabular}{rll}
+\toprule
+week\_ID & CREATE\_app & description\\
+\midrule
+1 & new title \& abstract & write a catchy, compelling alternative title to the reading and a very short 250 word abstract in your own words\\
+2 & concept map & draw a Venn diagram, flowchart, or any type of visual that summarizes how the big ideas from the reading this week connect to one another\\
+3 & cartoon & draw a fun cartoon summarizing the reading this week\\
+4 & questions & a good reading or paper should generate as many new questions as the ones it answers, list a few for the reading this week\\
+5 & made-up data & sketch a plot of data you would like to see supporting the main idea or hypothesis in the reading this week\\
+\addlinespace
+6 & experiment & sketch a next step experiment of any sort to support the reading this week\\
+\bottomrule
 \end{tabular}
 
   \bibliography{book.bib,packages.bib}
