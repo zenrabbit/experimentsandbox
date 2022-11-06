@@ -1,7 +1,13 @@
-week_ID,CREATE_app,description
-1,new title & abstract,"write a catchy, compelling alternative title to the reading and a very short 250 word abstract in your own words"
-2,concept map,"draw a Venn diagram, flowchart, or any type of visual that summarizes how the big ideas from the reading this week connect to one another"
-3,cartoon,draw a fun cartoon summarizing the reading this week
-4,questions,"a good reading or paper should generate as many new questions as the ones it answers, list a few for the reading this week"
-5,made-up data,sketch a plot of data you would like to see supporting the main idea or hypothesis in the reading this week
-6,experiment,sketch a next step experiment of any sort to support the reading this week
+example,CREATE application,instructions,teaching strategies
+1,new title & abstract,"write a catchy, compelling alternative title to the reading and a very short 250 word abstract in your own words","redact sections of paper, collectively ideate, encourage risk and catchy alternatives"
+2,concept map,"draw a Venn diagram, flowchart, or any type of visual that summarizes how the big ideas from the reading connect to one another",provide an example for your discipline or recent paper concept mapped out that you or your team have grappled with
+3,cartoon summary,"draw a fun cartoon summarizing the reading, infographics are also powerful heuristics and synthesis summary tools of salient points","numerous resources online for inspiration including https://phdcomics.com/ or xkcd.com and infographics are common in ecology, evolution, and the environmental sciences, if needed, many ten simple rules papers describing effective scientific communication principles "
+4,novel questions,"a good reading or paper should generate as many new questions as the ones it answers, list a few for the reading","ideate collectively, discuss a typology for scientific questions"
+5,made-up data & predictive plotting,sketch a plot of data or relationship you would like to see supporting the main idea or hypothesis proposed in paper,"discuss illustrative data and ideal scenarios as starting point for support for hypotheses, sketch out specific predictions as stepping stones to support"
+6,experimental cartoon,"sketch the experiment, schematic of methods described in paper","provide a sketch of the methods of a paper, how the work was done, not the outcomes"
+7,visual worflow,propose a next experiment to a paper as a simple workflow with logical steps connecting one another,query visual workflows online and explore images that inspire and link to the specific topic
+8,pros-cons table,make a short table summarizing the strengths and weaknesses of a paper,"apply this approach to methods, results, and implications, encourage the view that there is no perfect experiment and reminder learners that science is a process"
+9,figure-legend improv,"provide a figure legend for a data visualization from a paper, redacted or provided","provide only the figure, curate a small collection of examples for the topic, provide actual figure legends post hoc and discuss consilience"
+10,best-sentence competition,"from a paper, select a single sentence that resonated with reader or was novel and profound as a next step for the discipline","provide examples of sentences that shifted your view on a topic from papers, it can be funny, honest, transparent, transformative, profound, incorrect, or an implication"
+11,shark tank,"run a debate or shark tank of a published paper, use a weighted Likert Scale list of evidence from a paper","split readers into groups, assign them to rank evidence on a Likert Scale in the strengths and weaknesses, consider a brief debate or tallying of scores to informally rank papers that would successfully secure funding for a next experiment"
+12,KISS principle,"keep it simple scientists, propose a simple, one-factor, multi-level follow-up experiment to confirm or replicate a key finding from a paper","science needs replication, including ecology and evolution, identify a main finding, then get creative and design simple experiments that can replicate key finding"
